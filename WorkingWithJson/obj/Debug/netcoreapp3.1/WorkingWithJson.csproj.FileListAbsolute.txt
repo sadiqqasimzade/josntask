@@ -1,0 +1,16 @@
+C:\Users\admin\Desktop\git\all\WorkingWithJson\WorkingWithJson\obj\Debug\netcoreapp3.1\WorkingWithJson.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\git\all\WorkingWithJson\WorkingWithJson\obj\Debug\netcoreapp3.1\WorkingWithJson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\git\all\WorkingWithJson\WorkingWithJson\obj\Debug\netcoreapp3.1\WorkingWithJson.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\git\all\WorkingWithJson\WorkingWithJson\obj\Debug\netcoreapp3.1\WorkingWithJson.AssemblyInfo.cs
+C:\Users\admin\Desktop\git\all\WorkingWithJson\WorkingWithJson\obj\Debug\netcoreapp3.1\WorkingWithJson.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\git\all\WorkingWithJson\WorkingWithJson\bin\Debug\netcoreapp3.1\WorkingWithJson.exe
+C:\Users\admin\Desktop\git\all\WorkingWithJson\WorkingWithJson\bin\Debug\netcoreapp3.1\WorkingWithJson.deps.json
+C:\Users\admin\Desktop\git\all\WorkingWithJson\WorkingWithJson\bin\Debug\netcoreapp3.1\WorkingWithJson.runtimeconfig.json
+C:\Users\admin\Desktop\git\all\WorkingWithJson\WorkingWithJson\bin\Debug\netcoreapp3.1\WorkingWithJson.runtimeconfig.dev.json
+C:\Users\admin\Desktop\git\all\WorkingWithJson\WorkingWithJson\bin\Debug\netcoreapp3.1\WorkingWithJson.dll
+C:\Users\admin\Desktop\git\all\WorkingWithJson\WorkingWithJson\bin\Debug\netcoreapp3.1\WorkingWithJson.pdb
+C:\Users\admin\Desktop\git\all\WorkingWithJson\WorkingWithJson\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\admin\Desktop\git\all\WorkingWithJson\WorkingWithJson\obj\Debug\netcoreapp3.1\WorkingWithJson.csproj.CopyComplete
+C:\Users\admin\Desktop\git\all\WorkingWithJson\WorkingWithJson\obj\Debug\netcoreapp3.1\WorkingWithJson.dll
+C:\Users\admin\Desktop\git\all\WorkingWithJson\WorkingWithJson\obj\Debug\netcoreapp3.1\WorkingWithJson.pdb
+C:\Users\admin\Desktop\git\all\WorkingWithJson\WorkingWithJson\obj\Debug\netcoreapp3.1\WorkingWithJson.genruntimeconfig.cache

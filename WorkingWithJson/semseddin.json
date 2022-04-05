@@ -1,0 +1,25 @@
+{
+  "Id": 1,
+  "OrderItems": [
+    {
+      "Id": 1,
+      "Product": {
+        "Id": 1,
+        "Name": "M5",
+        "Price": 30000.0
+      },
+      "Count": 1,
+      "TotalPrice": 30000.0
+    },
+    {
+      "Id": 3,
+      "Product": {
+        "Id": 3,
+        "Name": "Benz",
+        "Price": 95000.0
+      },
+      "Count": 1,
+      "TotalPrice": 380000.0
+    }
+  ]
+}
