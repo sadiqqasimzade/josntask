@@ -10,5 +10,7 @@ namespace WorkingWithJson.Models
         public Product Product { get; set; }
         public int Count { get; set; }
         public double TotalPrice { get; set; }
+
+
     }
 }

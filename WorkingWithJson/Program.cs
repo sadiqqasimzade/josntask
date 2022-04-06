@@ -20,7 +20,7 @@ namespace WorkingWithJson
             item1.TotalPrice = cpu.Price * item1.Count;
             OrderItem item2 = new OrderItem { Id = 2, Product = gpu, Count = 1 };
             item2.TotalPrice = gpu.Price * item2.Count;
-            OrderItem item3 = new OrderItem { Id = 3, Product = mobo, Count = 1};
+            OrderItem item3 = new OrderItem { Id = 3, Product = mobo, Count = 4};
             item3.TotalPrice = mobo.Price * item3.Count;
             OrderItem item4 = new OrderItem { Id = 4, Product = ram, Count = 2 };
             item4.TotalPrice = ram.Price * item4.Count;
@@ -65,8 +65,11 @@ namespace WorkingWithJson
             Order o1 = JsonConvert.DeserializeObject<Order>(result);
             foreach (var element in o1.OrderItems)
             {
+                Console.WriteLine("--------------------------");
                 Console.WriteLine("Id:" + element.Id);
                 Console.WriteLine("Product:"+element.Product.Name);
+                Console.WriteLine("Price:"+element.Product.Price);
+                Console.WriteLine("Count:"+element.Count);
                 Console.WriteLine("Total Price:" + element.TotalPrice);
             }
             #endregion

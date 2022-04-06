@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "LqUPAbWKcyKs81hxpKWqRAcFhcvnB66/93m8RJRtzn3llrFZzuWaX3MNqnv/3h8oZmx2wu/RPxYSRw+wNA7yvQ==",
+  "dgSpecHash": "gwiFPC6SJpLN+iJP1vLUfu107gXBBQ5Flls0HhfUAZMXx2KaM1oiW+jb1BwH6wt5ux1/1/6Er2crPq0qmXizzQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\admin\\Desktop\\git\\all\\WorkingWithJson\\WorkingWithJson\\WorkingWithJson.csproj",
+  "projectFilePath": "C:\\Users\\tu6w5xs1c\\Desktop\\josntask\\WorkingWithJson\\WorkingWithJson.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\admin\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+    "C:\\Users\\tu6w5xs1c\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
   ],
   "logs": []
 }
