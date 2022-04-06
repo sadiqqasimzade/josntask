@@ -18,8 +18,28 @@
         "Name": "Benz",
         "Price": 95000.0
       },
+      "Count": 5,
+      "TotalPrice": 475000.0
+    },
+    {
+      "Id": 2,
+      "Product": {
+        "Id": 2,
+        "Name": "Q7",
+        "Price": 120000.0
+      },
+      "Count": 2,
+      "TotalPrice": 240000.0
+    },
+    {
+      "Id": 4,
+      "Product": {
+        "Id": 4,
+        "Name": "camry",
+        "Price": 60000.0
+      },
       "Count": 1,
-      "TotalPrice": 380000.0
+      "TotalPrice": 60000.0
     }
   ]
 }
