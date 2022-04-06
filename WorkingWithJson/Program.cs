@@ -19,13 +19,13 @@ namespace WorkingWithJson
             OrderItem item1 = new OrderItem { Id = 1, Product = cpu, Count = 1 };
             item1.TotalPrice = cpu.Price * item1.Count;
             OrderItem item2 = new OrderItem { Id = 2, Product = gpu, Count = 1 };
-            item2.TotalPrice = gpu.Price * item1.Count;
+            item2.TotalPrice = gpu.Price * item2.Count;
             OrderItem item3 = new OrderItem { Id = 3, Product = mobo, Count = 1};
-            item3.TotalPrice = mobo.Price * item1.Count;
+            item3.TotalPrice = mobo.Price * item3.Count;
             OrderItem item4 = new OrderItem { Id = 4, Product = ram, Count = 2 };
-            item4.TotalPrice = ram.Price * item1.Count;
+            item4.TotalPrice = ram.Price * item4.Count;
             OrderItem item5 = new OrderItem { Id = 5, Product = psu, Count = 1 };
-            item5.TotalPrice = psu.Price * item1.Count;
+            item5.TotalPrice = psu.Price * item5.Count;
 
             List<OrderItem> orderItems1 = new List<OrderItem>();
 
@@ -70,11 +70,9 @@ namespace WorkingWithJson
                 Console.WriteLine("Total Price:" + element.TotalPrice);
             }
             #endregion
+        
         }
 
-        static void Test(Order oreder)
-        {
-            Console.WriteLine(oreder.GetType().GetProperties());
-        }
+      
     }
 }
